@@ -1,6 +1,6 @@
-# Lab 10 - Update and Delete
+# Lab 6 - Update and Delete
 
-Enda Lee 2023
+Enda Lee 2025
 
 ### Quick Start
 
